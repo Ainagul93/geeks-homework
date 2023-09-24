@@ -1,0 +1,34 @@
+
+[
+  {
+    "name": "Nurdin",
+    "age": 19,
+    "nationality": "kyrgyz"
+  },
+  {
+    "name": "Diyaz",
+    "age": 19,
+    "nationality": "kyrgyz"
+  },
+  {
+    "name": "Medina",
+    "age": 16,
+    "nationality": "turkish"
+  },
+  {
+    "name": "Aidana",
+    "age": 17,
+    "nationality": "british"
+  },
+  {
+    "name": "Kyzjibek",
+    "age": 18,
+    "nationality": "korean"
+  },
+  {
+    "name": "Begimai",
+    "age": 17,
+    "nationality": "japanese"
+  }
+
+]

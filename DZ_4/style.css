@@ -1,0 +1,11 @@
+.card{
+    width: 200px;
+    height: 200px;
+    border: 1px solid lightblue;
+    margin: 20px;
+    text-align: center;
+}
+.wrapper{
+    width: 60%;
+    display:flex;
+}
